@@ -1,2 +1,2 @@
 # BlackJack
-BlackJack Game using HTML ;CSS and javaScript
+BlackJack Game using HTML , CSS and javaScript
